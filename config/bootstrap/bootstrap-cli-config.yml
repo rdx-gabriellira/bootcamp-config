@@ -71,6 +71,7 @@ bootstrap:
                 idp-source-id: 2e83af0f-d2c7-410e-878d-62fef905e0da
                 idp-source-name: bootcamp-44-test-uc-001-oee-owner
               - cdf-group: cdf:uc:001:oee:read
+
                 idp-source-id: 9af935a6-0665-42bd-9089-0211764d5c17
                 idp-source-name: bootcamp-44-test-uc-001-oee-read
 
