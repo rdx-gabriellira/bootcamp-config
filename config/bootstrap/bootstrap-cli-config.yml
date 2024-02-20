@@ -101,7 +101,7 @@ bootstrap:
           ns-nodes:
               - node-name: src:001:sap
                 description: Data from SAP
-              - node-name: src:001:opcua
+              - node-name: src:002:opcua
                 description: Data from OPCUA
 
         - ns-name: uc
