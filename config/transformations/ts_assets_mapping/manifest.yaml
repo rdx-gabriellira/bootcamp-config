@@ -11,7 +11,7 @@ ignoreNullFields: true
 shared: true
 action: update
 schedule:
-    interval: 14,30,44,59 * * * *
+    interval: 0 * * * *
     isPaused: false
 dataSetExternalId: uc:001:oee:ds
 
